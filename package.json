@@ -1,5 +1,5 @@
 {
-  "name": "@vimeo/player",
+  "name": "ssok-vimeo-player",
   "version": "2.12.2",
   "description": "Interact with and control an embedded Vimeo Player.",
   "license": "MIT",
